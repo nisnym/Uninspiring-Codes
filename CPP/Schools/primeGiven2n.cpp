@@ -4,7 +4,7 @@ using namespace std;
 
 main(){
     int num, i, Flag=0,N;
-    cout<<"ENter the numver to ";
+    cout<<"ENter the number to ";
     cin>>N;
     cout<<"The numbers are ";
     for (num = 1 ; num <= N ; num++){
