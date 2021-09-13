@@ -15,6 +15,7 @@ main(){
         cout<< x << "\t";
     cout<<Q<<endl;
     cout<<12%4;
-
+    int maxi = INT_MAX;
+    cout<<"\t"<<maxi;
 
 }
