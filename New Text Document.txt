@@ -1,1 +1,5 @@
 Okay this is just change log
+This is branch checkout
+	I got to learn that there are two types of merging
+	- Fast Forward Merging
+	- Three Way Merging
