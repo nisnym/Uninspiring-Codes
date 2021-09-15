@@ -30,7 +30,7 @@ int call(int input1,int input2, vector <int> input3){
 
 int main(){
 	int input1 = 12,input2 = 4;
-	vector <int> input3 = {1,5,7,9};
+	vector <int> input3 = {1,5,7};
 	cout<<call(input1,input2,input3);
 	return 0;
 }
