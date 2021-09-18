@@ -1,0 +1,13 @@
+//Headers and define
+
+	// #include<climits> also can be used <limits.h>
+
+
+//STL
+
+
+
+//Data Types
+
+
+//Important things to remember
